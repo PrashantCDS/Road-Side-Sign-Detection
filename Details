@@ -1,4 +1,13 @@
 You can find all the file in Google Drive i has given below:
 
+This Project is Specially made for Detecting the Road Side Sign which is help to Drivers to follow traffic rule or where to get left or right and many Things.
+
+In this Project I have collected 3000 Images from 26 different classes to different websites.
+
+All Images are Annoted manually by using LabelMe.
+
+In this project i have used to YOLO which means You Only Look Once to trained my model. Where i got MAP50% = 90% and MAP50%-90% = 85%.
+
+
 
 ____________https://drive.google.com/drive/folders/1wPN8hJhoW5K8ks_USL4pjtPJDq6jj97a?usp=drive_link_____________
